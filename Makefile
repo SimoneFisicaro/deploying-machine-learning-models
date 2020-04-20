@@ -1,4 +1,5 @@
 NAME=ml-course-api
+COMMIT_ID=$(shell git rev-parse HEAD)
 
 
 build-ml-api-heroku:
