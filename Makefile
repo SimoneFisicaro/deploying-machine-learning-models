@@ -1,4 +1,4 @@
-NAME=udemy-ml-course-simone
+NAME=ml-course-api
 
 
 build-ml-api-heroku:
